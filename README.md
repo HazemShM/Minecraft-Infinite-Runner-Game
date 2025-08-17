@@ -26,7 +26,7 @@ The player must dodge obstacles, collect items, and survive as long as possible 
 
 ## 📸 Game Play
 
-![GamePlay](Images/GamePlay.gif)
+![GamePlay](Images/GamePlayy.gif)
 
 ---
 
