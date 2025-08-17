@@ -15,21 +15,20 @@ The player must dodge obstacles, collect items, and survive as long as possible 
 
 ---
 
-## 🕹️ Controls
+## 🕹️ How To Play
 - **Arrow Keys / WASD** → Move the character  
 - **Spacebar** → Jump  
 - **Esc** → Pause  
+![How To Play](Images/HowToPlay1.jpg)
+![How To Play](Images/HowToPlay2.jpg)
 
 ---
 
-## 📸 Screenshots
-You can add screenshots here once uploaded to the repo:
+## 📸 Game Play
 
-```markdown
-![How To Play](Images/HowToPlay1.jpg)(Images/HowToPlay2.jpg)
 ![GamePlay](Images/GamePlay.gif)
 
-
+---
 
 ## 🙌 Credits
 
@@ -37,5 +36,3 @@ You can add screenshots here once uploaded to the repo:
 - Assets inspired by **Minecraft** (© Mojang Studios / Microsoft).  
   - ⚠️ These assets are **not included** in this repository.  
 - Built with **Unity Game Engine** and **C#**.  
-
-
